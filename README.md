@@ -2,4 +2,5 @@
 ### Sovereign Alignment Model | Baseline 2026
 
 ## Pricing (Forensic – Auto-Generated)
+
 **Notice:** All stewardship fees are governed by the V92 Economic Constitution.
